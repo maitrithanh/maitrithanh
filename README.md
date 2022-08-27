@@ -4,7 +4,7 @@
 
 ### Socials
 <a href="https://facebook.com/BluMTT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="[https://facebook.com/BluMTT" target="_blank" rel="noreferrer](https://linkedin.com/in/thanhdev)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://linkedin.com/in/thanhdev" target="_blank" rel="noreferrer])"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="36" height="36" alt="JavaScript" /></a>
 [![LinkedIn]()]() 
 
 ### Skill
