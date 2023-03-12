@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Thanh
 
-* 🖥️  See my portfolio at [https://mytrithanh.github.io/home/](https://mytrithanh.github.io/home/)
+* 🖥️  See my portfolio at [https://maitrithanh.github.io/home/](https://maitrithanh.github.io/home/)
 
 ### Socials
 <a href="https://facebook.com/BluMTT" target="_blank" rel="noreferrer">
