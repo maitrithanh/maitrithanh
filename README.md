@@ -29,6 +29,5 @@
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="36" height="36" alt="CSS3" />
 </a>
----
 ![](https://visitcount.itsvg.in/api?id=mytrithanh&icon=0&color=1)
 
