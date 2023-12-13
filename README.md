@@ -60,3 +60,9 @@
   </a>
 </p>
 <img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" width="150" height="150" alt="CSS3" />
+
+// for example in `onCreateHolder`, so this is done once per `TextView`
+holder.textView.setMovementMethod(LinkMovementMethod.getInstance());
+
+// then in `onBind` apply your markdown as usual:
+markwon.setMarkdown(holder.textView, markdown);
