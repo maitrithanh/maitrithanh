@@ -3,20 +3,22 @@
 * 🖥️  See my portfolio at [https://maitrithanh.github.io/home/](https://maitrithanh.github.io/home/)
 
 ### Socials
-<a href="https://facebook.com/BluMTT" target="_blank">
+<a href="https://facebook.com/BluMTT" target="_blank" style="text-decoration: none !important;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="36" height="36" alt="Facebook" />
 </a>
+
 <a href="https://linkedin.com/in/thanhdev" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="36" height="36" alt="Linkedin" />
 </a>
-<a href="https://www.youtube.com/channel/UCxtkn_esM8hVuhhvvhMdG5w">
+
+<a href="https://www.youtube.com/channel/UCxtkn_esM8hVuhhvvhMdG5w" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="36" height="36" alt="Linkedin" />
 </a>
 
 
 ### Skill
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none !important">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" style="text-decoration:none !important">
