@@ -45,7 +45,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 </a>
-<img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" width="150" height="150" alt="CSS3" />
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </a>
@@ -58,5 +57,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </a>
+
+<img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" width="150" height="150" alt="CSS3" />
+
 
 
