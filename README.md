@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanh
 
 * 🌍  I'm based in HCMC
-* 🖥️  See my portfolio at [https://maitrithanh-com.netlify.app/](https://maitrithanh-com.netlify.app/)
+* 🖥️  See my portfolio at [https://www.maitrithanh.site/](https://www.maitrithanh.site/)
 
 ### Socials
 
