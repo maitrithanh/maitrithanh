@@ -1,17 +1,22 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanh
+# ![](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I%27m+Tri+Thanh!%22)
 
-* 🌍  I'm based in HCMC
-* 🖥️  See my portfolio at <a href="[https://facebook.com/BluMTT](https://trithanh.dev/)" target="_blank" rel="noreferrer">https://trithanh.dev/</a>
+<div align="center">
+  🌍  I'm based in HCMC
+  🖥️  See my portfolio at <a href="[https://facebook.com/BluMTT](https://trithanh.dev/)" target="_blank" rel="noreferrer">https://trithanh.dev/</a>
+</div>
 
-### Socials
 
-<a href="https://facebook.com/BluMTT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="36" height="36" alt="Facebook" /></a>
-<a href="https://linkedin.com/in/thanhdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="36" height="36" alt="Linkedin" /></a>
-<a href="https://www.youtube.com/channel/UCxtkn_esM8hVuhhvvhMdG5w" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="36" height="36" alt="Linkedin" /></a>
+<div align="center">
+  <strong>Socials</strong>
+  <a href="https://facebook.com/BluMTT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="36" height="36" alt="Facebook" /></a>
+  <a href="https://linkedin.com/in/thanhdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="36" height="36" alt="Linkedin" /></a>
+  <a href="https://www.youtube.com/channel/UCxtkn_esM8hVuhhvvhMdG5w" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="36" height="36" alt="Linkedin" /></a>
+</div>
 
-### Skill
-
-<p align="left">
+<p align="center">
+  <strong>
+    Skill
+  </strong>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -27,4 +32,6 @@
   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" width="150" height="150" alt="CSS3" />
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="150" height="150" alt="CSS3" />
+</div>
