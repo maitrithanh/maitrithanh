@@ -12,7 +12,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 See my portfolio <a href="https://www.maitrithanh.dev" target="_blank">https:\\www.maitrithanh.dev</a>
+ 🔭 See my portfolio <a href="https://www.maitrithanh.dev" target="_blank">www.maitrithanh.dev</a>
 
  </div>
 
