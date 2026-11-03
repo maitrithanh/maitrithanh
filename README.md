@@ -43,11 +43,11 @@ const triThanh = {
 
 ### 🌱 Quick facts
 
-- 🔭 Đang xây dựng các sản phẩm web từ **frontend** đến **backend**
-- 🌱 Đang học sâu hơn về **System Design**, **Cloud** và **DevOps**
-- 🤝 Sẵn sàng hợp tác trên các dự án **open source** và **side project** thú vị
-- 💬 Hỏi mình về **React, Next.js, Node.js, TypeScript**
-- ⚡ Fun fact: code chạy được ngay lần đầu thì mình… kiểm tra lại lần nữa 😅
+- 🔭 I build end-to-end web products, from **frontend** to **backend**
+- 🌱 Currently diving deeper into **System Design**, **Cloud**, and **DevOps**
+- 🤝 Open to collaborating on **open-source** and exciting **side projects**
+- 💬 Ask me about **React, Next.js, Node.js, and TypeScript**
+- ⚡ Fun fact: when my code works on the first try, I check it twice 😅
 
 <!-- ========================= TECH STACK ========================= -->
 ## 🛠️ Tech Stack
