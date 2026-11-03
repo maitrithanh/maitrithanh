@@ -1,11 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mai%20Tri%20Thanh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20things%20for%20the%20web&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.maitrithanh.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Tri+Thanh;Full+Stack+Developer+%F0%9F%9A%80;I+turn+%E2%98%95+into+clean+code;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+    <img src="assets/hero.svg" alt="Mai Tri Thanh - Full Stack Developer" width="100%" />
   </a>
 </p>
 
