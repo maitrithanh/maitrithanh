@@ -66,18 +66,18 @@ const triThanh = {
 <!-- ========================= STATS ========================= -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maitrithanh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitrithanh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maitrithanh&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitrithanh&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" />
-</p>
+</p> -->
 
 <details>
 <summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
